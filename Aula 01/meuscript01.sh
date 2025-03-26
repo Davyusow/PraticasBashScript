@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello World!"
+echo "Hello World!"  # echo imprime uma mensagem na tela
 echo "Meu diretório atual é: "
-pwd
+pwd	#imprime o diretório atual
